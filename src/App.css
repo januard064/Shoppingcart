@@ -2,6 +2,28 @@
   text-align: center;
 }
 
+.kard{
+  height: 250px;
+}
+
+.card{
+  margin-top: 20px;
+}
+
+.aksi{
+  margin-left: -25px;
+}
+
+.judul{
+  margin-top: 20px;
+  margin-left: 40%;
+}
+
+.check{
+  width: 100%;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
